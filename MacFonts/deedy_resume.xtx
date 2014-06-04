@@ -81,8 +81,13 @@
 
 \subsection{Rice University}
 \descript{Bachelors in Computer Science}
-\location{Grad. May 2014 |  Houston, TX}
+\location{2010 - 2014 |  Houston, TX}
 GPA: 3.87 | Cum Laude
+\sectionsep
+
+\subsection{UCL}
+\descript{Study Abroad / Comp. Sci.}
+\location{Spring 2013 | London, UK}
 \sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -90,11 +95,24 @@ GPA: 3.87 | Cum Laude
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \section{Links} 
-Github:// \href{https://github.com/deedydas}{\bf deedydas} \\
-LinkedIn://  \href{https://www.linkedin.com/in/debarghyadas}{\bf debarghyadas} \\
-YouTube://  \href{https://www.youtube.com/user/DeedyDash007}{\bf DeedyDash007} \\
-Twitter://  \href{https://twitter.com/debarghya_das}{\bf @debarghya\_das} \\
-Quora://  \href{https://www.quora.com/Debarghya-Das}{\bf Debarghya-Das}
+Github:// \href{https://github.com/trnscndntlimbo}{\bf trnscndntlimbo} \\
+LinkedIn://  \href{https://www.linkedin.com/pub/waseem-ahmad/45/196/a92}{\bf bit.ly/waseemahmad} \\
+Medium://  \href{https://www.medium.com/@trnscndntlimbo}{\bf @trnscndntlimbo} \\
+Facebook:// \href{https://www.facebook.com/waseem90}{\bf waseem90} \\
+Twitter://  \href{https://twitter.com/trnscndntlimbo}{\bf @trnscndntlimbo} \\
+\sectionsep
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     SKILLS
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Technical Skills}
+\subsection{Languages}
+\location{Proficient:}
+Python \textbullet{} Scala \textbullet{} Java \textbullet{} C \\
+Objective-C \textbullet{} JavaScript \textbullet{} PHP \\
+\location{Comfortable:}
+HTML \textbullet{} CSS \\
 \sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -102,38 +120,28 @@ Quora://  \href{https://www.quora.com/Debarghya-Das}{\bf Debarghya-Das}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \section{Coursework}
-\subsection{Graduate}
-Advanced Machine Learning \\
-Open Source Software Engineering \\
-Advanced Interactive Graphics \\
-Compilers + Practicum \\
-Cloud Computing \\
+COMP 382: Algorithms \\
+COMP 421: Operating Systems \\
+COMP 412: Compiler Construction \\
+COMP 410: Software Eng. Methodology \\
+Functional Programming in Scala $\dagger$ \\
+COMP 440: Artificial Intelligence \\
+COMP 430: Databases \\
+COMP 450: Algorithmic Robotics \\
+COMP 310: Advanced OO Prog. \\
+COMP 322: Parallel Programming \\
+COMP 221: Computer Systems \\
+BUSI 296: Business Communications \\
+COMP 446: Mobile Applications* \\
+COMP 215: Program Design \\
+COMP 182: Algorithmic Thinking \\
+COMP 140: Computational Thinking*
+
+{\footnotesize \textit{\textbf{ * Teaching Assistant}}} \\
+{\footnotesize \textit{\textbf{ $\dagger$ Online: Coursera}}} \\
+
 \sectionsep
 
-\subsection{Undergraduate}
-Information Retrieval \\
-Operating Systems \\
-Artificial Intelligence + Practicum \\
-Functional Programming \\
-Computer Graphics + Practicum \\
-{\footnotesize \textit{\textbf{(Research Asst. \& Teaching Asst) }}} \\
-Unix Tools and Scripting \\
-\sectionsep
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%     SKILLS
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-\section{Skills}
-\subsection{Programming}
-\location{Over 5000 lines:}
-Java \textbullet{}   Shell \textbullet{} JavaScript \textbullet{} Matlab \\
-OCaml \textbullet{} Python \textbullet{} Rails \textbullet{} \LaTeX\ \\ 
-\location{Over 1000 lines:}
-C \textbullet{} C++ \textbullet{} CSS \textbullet{} PHP \textbullet{} Assembly \\
-\location{Familiar:}
-AS3 \textbullet{} iOS \textbullet{} Android \textbullet{} MySQL
-\sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %
