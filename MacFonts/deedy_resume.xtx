@@ -96,7 +96,7 @@ GPA: 3.87 | Cum Laude
 
 \section{Links} 
 Github:// \href{https://github.com/trnscndntlimbo}{\bf trnscndntlimbo} \\
-LinkedIn://  \href{https://www.linkedin.com/pub/waseem-ahmad/45/196/a92}{\bf bit.ly/waseemahmad} \\
+LinkedIn: \href{https://www.linkedin.com/pub/waseem-ahmad/45/196/a92}{\bf bit.ly/waseemahmad} \\
 Medium://  \href{https://www.medium.com/@trnscndntlimbo}{\bf @trnscndntlimbo} \\
 Facebook:// \href{https://www.facebook.com/waseem90}{\bf waseem90} \\
 Twitter://  \href{https://twitter.com/trnscndntlimbo}{\bf @trnscndntlimbo} \\
@@ -151,7 +151,7 @@ COMP 140: Computational Thinking*
 
 \end{minipage} 
 \hfill
-\begin{minipage}[t]{0.66\textwidth} 
+\begin{minipage}[t]{0.66 \textwidth} 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     EXPERIENCE
@@ -159,50 +159,57 @@ COMP 140: Computational Thinking*
 
 \section{Experience}
 
-\runsubsection{Coursera}
-\descript{| KPCB Fellow + Software Engineering Intern }
-\location{Expected June 2014 – Sep 2014 | Mountain View, CA}
+\runsubsection{Facebook}
+\descript{| Software Engineer Intern}
+\location{Payments Platform | Jun 2013 – Aug 2013 | Menlo Park, CA}
+\begin{small}
+Created an internal tool: Payment Method Order and Routing \\
+This tool allows Payment Ops to achieve higher payment completions, utilize payment providers more effectively, and generate more revenue.
 \vspace{\topsep} % Hacky fix for awkward extra vertical space
 \begin{tightemize}
-\item 52 out of 2500 applicants chosen to be a KPCB Fellow 2014.
+\item {On a country-by-country basis,}
+\begin{tightemize}
+\item {allows ordering of payment methods to show more popular payment methods first; and,}
+\item {allows split routing of traffic to payment providers for individual methods.}
 \end{tightemize}
+\item {Using PHP / Hack, JS, HTML, and CSS, designed and implemented the UI for ordering and routing data entry, validation, and persistence.}
+\item {Implemented the business and routing logic for mobile alternative payment methods (non-mobile already implemented).}
+\end{tightemize}
+\end{small}
 \sectionsep
 
+\vspace{\topsep} % Hacky fix for awkward extra vertical space
 \runsubsection{Google}
-\descript{| Software Engineering Intern }
-\location{May 2013 – Aug 2013 | Mountain View, CA}
+\descript{| Software Engineer Intern in Test }
+\location{QPX\textsuperscript{TM} - Travel Search | May 2013 – Aug 2013 | Boston, MA}
+\begin{small}
 \begin{tightemize}
-\item Worked on the YouTube Captions team in primarily vanilla Javascript and Python to plan, design and develop the full stack implementation of a new framework to add and edit Automatic Speech Recognition captions.
-\item Created a backbone.js-like framework for the Captions editor.
-\item All code was reviewed, perfected, and pushed to production.
+\item Designed and deployed QPX dashboard, which integrates and consolidates data from test systems into a user friendly and interactive report.
+\item Used Python (Google App Engine), JavaScript (Closure), CSS, and HTML for development. 
+\item Optimized and parallelized QPX testing server startup scripts, speedup greater than 2x achieved.
 \end{tightemize}
-\sectionsep
-
-\runsubsection{Phabricator}
-\descript{| Open Source Contributor \& Team Leader}
-\location{Jan 2013 – May 2013 | Palo Alto, CA \& Ithaca, NY}
-\begin{tightemize}
-\item Phabricator is used daily by Facebook, Dropbox, Quora, Asana and more.
-\item I created the Meme generator, the entire Lipsum application, ported Tokens to different apps, fixed many bugs and more in PHP and Shell.
-\item Led a team from MIT, Cornell, IC London and UHelsinki for the project.
-\end{tightemize}
+\end{small}
 \sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%     RESEARCH
+%     PROJECTS
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\section{Research}
-\runsubsection{Cornell Robot Learning Lab}
-\descript{| Head Undergrad Research}
-\location{Jan 2014 – Present | Ithaca, NY}
-Worked with \textbf{\href{http://www.cs.cornell.edu/~ashesh/}{Ashesh Jain}} and \textbf{\href{http://www.cs.cornell.edu/~asaxena/}{Prof Ashutosh Saxena}} to create \textbf{PlanIt}, a tool which  learns from large scale user preference feedback to plan robot trajectories in human environments.  Publication submitted.
+\section{Projects}
+\runsubsection{\href{http://elections.riceapps.org}{Rice Elections}}
+\descript{| Jan 2013 – May 2014}
+\begin{small}
+Voluntarily designed and implemented a web app for secure online elections using Google App Engine for Python.
+\vspace{\topsep} % Hacky fix for awkward extra vertical space
+\begin{tightemize}
+\item Supports the two most popular voting systems: Instant Runoff Voting, Cumulative Choice Voting.
+\item Automatically computes election results at the end of elections and makes them publicly available. Emails election administrators a detailed report with ballot information for manual verification. 
+\item The ballots cast are not tied to the voters for privacy and anonymity.
+\end{tightemize}
+\end{small}
 \sectionsep
 
-\runsubsection{Cornell Phonetics Lab}
-\descript{| Head Undergraduate Researcher}
-\location{Mar 2012 – May 2013 | Ithaca, NY}
-Lead the development of \textbf{QuickTongue}, the first ever breakthrough tongue-controlled game with \textbf{\href{http://conf.ling.cornell.edu/~tilsen/}{Prof Sam Tilsen}} to aid in Linguistics research. Publication submitted.
+\descript{More projects at \href{http://www.waseemahmad.com/projects}{waseemahmad.com/projects} }
 \sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -210,30 +217,31 @@ Lead the development of \textbf{QuickTongue}, the first ever breakthrough tongue
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \section{Awards} 
+\begin{small}
 \begin{tabular}{rll}
-2014	     & top 52/2500  & KPCB Engineering Fellow\\
-2014	     & 2\textsuperscript{nd} most points  & Google Code Jam, Qualification Round\\
-2014	     & 1\textsuperscript{st}/50  & Microsoft Coding Competition, Cornell\\
-2013	     & National  & Jump Trading Challenge Finalist\\
-2013     & 7\textsuperscript{th}/120 & CS 3410 Cache Race Bot Tournament  \\
-2012     & 2\textsuperscript{nd}/150 & CS 3110 Biannual Intra-Class Bot Tournament \\
-2011     & National & Indian National Mathematics Olympiad (INMO) Finalist \\
-2010     & National & Comp. Soc. of India's National Programming Contest\\
+2014 & \href{http://news.rice.edu/2014/05/17/degree-recipients-earn-scores-of-honors-awards/}{Jason Chahin Innovation and Excellence}         & \href{http://news.rice.edu/2014/05/17/degree-recipients-earn-scores-of-honors-awards/}{Given to 1 senior in CS Dept.}  \\
+2014 & \href{http://brown.rice.edu/people/academic-fellows}{Brown College Society of Academic Fellows}                                        & \href{http://brown.rice.edu/people/academic-fellows}{Academic Excellence}  \\
+2014 & \href{http://challengepost.com/software/telepromptu}{PennApps Hackathon}                                                               & \href{http://challengepost.com/software/telepromptu}{Google Prize | Telepromptu}  \\
+2013 & \href{http://www.waseemahmad.com/hacker-life-2/}{University Hacker Olympics Hackathon}                                                  & \href{http://www.waseemahmad.com/hacker-life-2/}{1st Place | Clarity}  \\
+2013 & \href{http://challengepost.com/software/townfloor}{PennApps Hackathon}                                                                 & \href{http://challengepost.com/software/townfloor}{3rd Place in Best Use of Firebase | TownFloor} 
 \end{tabular}
+\end{small}
 \sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%     SOCIETIES
+%     COMMUNITY
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\section{Societies} 
-
+\section{Community}
+\begin{small}
 \begin{tabular}{rll}
-2014 	& top 12\%ile    & Tau Beta Pi Engineering Honor Society\\
-2014   & National   & The Global Leadership and Education Forum (tGELF)\\
-2012   &  National  & Golden Key International Honor Society\\
-2012   &  National   & National Society of Collegiate Scholars\\
+2013-2014 	& \href{http://csclub.rice.edu/officers}{President}           & \href{http://csclub.rice.edu/officers}{Rice CS Club}  \\
+2012-2013   & \href{http://csclub.rice.edu/officers}{Vice President}      & \href{http://csclub.rice.edu/officers}{Rice CS Club}  \\
+2013-2014   & \href{http://riceapps.org}{Founder}                         & \href{http://riceapps.org}{Rice Apps}     \\
+2012-2013   & \href{https://www.google.com/edu/programs/student-ambassador-program/}{Student Ambassador for Rice University}   & \href{https://www.google.com/edu/programs/student-ambassador-program/}{Google} \\
+2012        & \href{http://hack.rice.edu/about}{Founder}                  & \href{http://hack.rice.edu/about}{HackRice}
 \end{tabular}
+\end{small}
 \sectionsep
 
 \end{minipage} 
